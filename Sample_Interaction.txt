@@ -1,0 +1,24 @@
+Sample Interaction:
+
+Enter the PIN: 
+1234
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Change Pin
+5. Exit
+Option: 1
+Balance: 1000
+
+Option: 2
+Enter Amount: 
+200
+(After deposit) Balance: 1200
+
+Option: 3
+Enter Amount: 
+1500
+Insufficient Funds!
+
+Option: 5
+Thank You for using ATM!
